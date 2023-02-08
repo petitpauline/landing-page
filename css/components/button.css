@@ -1,0 +1,11 @@
+.button-purple {
+  background-color: #521442;
+  padding: 10px 15px;
+  border-radius: 4px;
+  color: white;
+  opacity: 0.9;
+  font-weight: bold;
+  font-family: roboto;
+  font-size: 18px;
+}
+
